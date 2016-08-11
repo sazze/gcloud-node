@@ -1,5 +1,5 @@
 {
-  "name": "gcloud-node",
+  "name": "gcloud",
   "private": "true",
   "version": "0.37.0",
   "devDependencies": {
