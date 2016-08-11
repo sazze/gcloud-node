@@ -1,6 +1,7 @@
 {
   "name": "gcloud-node",
   "private": "true",
+  "version": "0.37.0",
   "devDependencies": {
     "async": "^1.4.2",
     "coveralls": "^2.11.2",
