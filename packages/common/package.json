@@ -48,7 +48,7 @@
     "extend": "^3.0.0",
     "google-auto-auth": "^0.2.4",
     "google-proto-files": "^0.2.1",
-    "grpc": "^0.14.1",
+    "grpc": "^0.15.0",
     "is": "^3.0.1",
     "methmeth": "^1.0.0",
     "request": "^2.70.0",

@@ -2,3 +2,4 @@
 **/coverage/*
 docs/json/**/*.json
 *.log
+.idea
